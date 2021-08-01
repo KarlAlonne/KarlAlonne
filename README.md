@@ -1,5 +1,4 @@
-### Äh, willkommen! 👋 This is my profile, well that's obvious ha! Here you will read a little about me, I hope you find it very informative, see you later!
-
+### Äh, willkommen👋 
 <!--
 **KarlAlonne/KarlAlonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
