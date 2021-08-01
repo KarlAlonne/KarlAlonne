@@ -3,7 +3,7 @@
 <!--
 **KarlAlonne/KarlAlonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-_My name is **Karl** as you may have already read, I am a 19 year old young man, decided to learn more and more about the programming area to achieve my goals, below will have some professional data or not about me_
+My name is **Karl** as you may have already read, I am a 19 year old young man, decided to learn more and more about the programming area to achieve my goals, below will have some professional data or not about me
 
 Here are some ideas to get you started:
 
